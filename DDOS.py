@@ -5,7 +5,7 @@ import os
 import time
 
 os.system("clear")
-print("== VATIERA MEGA PRO UNIVERSE v5 ==")
+print("== VATIERA MEGA PRO v5 ==")
 print("== The Final Crash Protocol ==")
 
 ip = input(" Target IP: ")
