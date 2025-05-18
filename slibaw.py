@@ -7,7 +7,7 @@ import platform
 if platform.system() == 'Windows':
 
 	print("""
-  BY TEAM V2 MACHKEL
+  BY TEAM V2 MACHKEL & VATIERA & LAMBADA
 
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -20,7 +20,7 @@ if platform.system() == 'Windows':
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ────────────────────────────────────────────────────────────────────────────────
-Created by MACHKEL
+Created by MACHKEL & VATIERA & LAMBADA
 
 	""")
 else :
